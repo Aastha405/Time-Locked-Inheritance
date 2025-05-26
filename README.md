@@ -71,6 +71,6 @@ Our vision is to revolutionize inheritance planning by leveraging blockchain tec
 
 
 
-[Screenshot 2025-05-26 133201](https://github.com/user-attachments/assets/b5fcd41f-c1d8-4de9-b953-46b9a301c98e)
+<img width="1231" alt="image" src="https://github.com/user-attachments/assets/ae267014-343b-4288-99ad-cd58a8abd744" />
 
 
