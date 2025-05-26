@@ -58,7 +58,7 @@ Our vision is to revolutionize inheritance planning by leveraging blockchain tec
 
 ### Long-term Vision (1-3 years)
 - *AI-powered Estate Planning*: Integrate AI for personalized inheritance planning recommendations
-- *Regulatory Compliance*: Develop features to ensure compliance with various jurisdictions![Screenshot 2025-05-26 133201](https://github.com/user-attachments/assets/b5fcd41f-c1d8-4de9-b953-46b9a301c98e)
+- *Regulatory Compliance*: Develop features to ensure compliance with various jurisdictions!
 
 - *Insurance Integration*: Partner with insurance providers for additional beneficiary protection
 - *Decentralized Governance*: Implement DAO governance for protocol improvements
@@ -71,7 +71,6 @@ Our vision is to revolutionize inheritance planning by leveraging blockchain tec
 
 
 
+[Screenshot 2025-05-26 133201](https://github.com/user-attachments/assets/b5fcd41f-c1d8-4de9-b953-46b9a301c98e)
 
-
-![Screenshot 2025-05-26 133938](https://github.com/user-attachments/assets/696bbab5-b8de-45f4-8868-6a6e9f8814e2)
 
