@@ -69,49 +69,9 @@ Our vision is to revolutionize inheritance planning by leveraging blockchain tec
 - *Tax Optimization*: Features to help optimize tax implications of inheritances
 - *Professional Services*: Integration with financial advisors and estate planning professionals
 
-### Technical Roadmap
-- *Layer 2 Integration*: Deploy on Layer 2 solutions for reduced gas costs
-- *Interoperability*: Cross-chain bridge development for multi-network support
-- *Advanced Analytics*: Comprehensive dashboard and analytics for inheritance management
-- *API Development*: REST APIs for third-party integrations and services
 
-## Installation & Usage
 
-### Prerequisites
-- Node.js (v16 or higher)
-- Hardhat or Truffle development environment
-- MetaMask or compatible Web3 wallet
 
-### Deployment
-1. Clone the repository
-2. Install dependencies: npm install
-3. Configure network settings in hardhat.config.js
-4. Deploy contract: npx hardhat run scripts/deploy.js --network [network-name]
 
-### Interaction
-The contract provides three core functions:
-- createInheritance(): Create new time-locked inheritance
-- claimInheritance(): Claim available inheritance
-- getInheritanceDetails(): Check inheritance status and details
-
-## Security Considerations
-
-- The contract has been designed with security best practices
-- All functions include appropriate access controls and input validation
-- Emergency mechanisms are in place for extreme edge cases
-- Consider professional audit before mainnet deployment with significant funds
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Contributing
-
-We welcome contributions! Please read our contributing guidelines and submit pull requests for any improvements.
-
-## Support
-
-For questions, issues, or support, please open an issue in our GitHub repository or contact our development team.
-
----![Screenshot 2025-05-26 133938](https://github.com/user-attachments/assets/696bbab5-b8de-45f4-8868-6a6e9f8814e2)
+![Screenshot 2025-05-26 133938](https://github.com/user-attachments/assets/696bbab5-b8de-45f4-8868-6a6e9f8814e2)
 
