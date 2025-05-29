@@ -70,6 +70,7 @@ Our vision is to revolutionize inheritance planning by leveraging blockchain tec
 - *Professional Services*: Integration with financial advisors and estate planning professionals
 
 
+Contract Details : OxBb2B3c21daF655A91cc2C434AFc7C71457234071
 
 <img width="1231" alt="image" src="https://github.com/user-attachments/assets/ae267014-343b-4288-99ad-cd58a8abd744" />
 
